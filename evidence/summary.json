@@ -1,0 +1,22 @@
+{
+  "algorithm": "shimo-direct-ls2-v1",
+  "exhaustive_s": 0.057105916988803074,
+  "single_candidates": [
+    180,
+    436,
+    603,
+    642,
+    859,
+    898
+  ],
+  "multiple_candidates": [
+    642,
+    898
+  ],
+  "equivalent_keys_642_898_on_all_plaintexts": true,
+  "reachable_min": 254,
+  "reachable_max": 254,
+  "max_bucket": 8,
+  "all_plaintexts_have_collisions": true,
+  "full_analysis_s": 0.079009707988007
+}

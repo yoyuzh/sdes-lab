@@ -1,0 +1,7 @@
+{
+  "algorithm": "shimo-direct-ls2-v1",
+  "key": "1010000010",
+  "plaintext": "Hello, S-DES!",
+  "ciphertext_hex": "E4 5C 89 89 AB DD C2 CB 56 9B 30 CB AD",
+  "restored": "Hello, S-DES!"
+}

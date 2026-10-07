@@ -1,0 +1,46 @@
+{
+  "algorithm": "shimo-direct-ls2-v1",
+  "environment": {
+    "os": "macOS-27.2-arm64-arm-64bit-Mach-O",
+    "python": "3.13.13",
+    "pyside6": "6.11.2"
+  },
+  "checked_combinations": 262144,
+  "roundtrip_passed": true,
+  "permutation_passed": true,
+  "elapsed_s": 0.057105916988803074,
+  "trace": {
+    "operation": "encrypt",
+    "input": 215,
+    "key": 642,
+    "subkeys": [
+      164,
+      146
+    ],
+    "initial": 221,
+    "rounds": [
+      {
+        "subkey": 164,
+        "input": 221,
+        "expanded": 235,
+        "mixed": 79,
+        "s0": 3,
+        "s1": 3,
+        "p4": 15,
+        "output": 45
+      },
+      {
+        "subkey": 146,
+        "input": 210,
+        "expanded": 20,
+        "mixed": 134,
+        "s0": 0,
+        "s1": 3,
+        "p4": 6,
+        "output": 178
+      }
+    ],
+    "swapped": 210,
+    "output": 232
+  }
+}

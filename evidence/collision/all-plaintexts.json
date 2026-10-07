@@ -1,0 +1,2835 @@
+{
+  "algorithm": "shimo-direct-ls2-v1",
+  "app_version": "0.1.0",
+  "kind": "FullAnalysisResult",
+  "environment": {
+    "os": "macOS-27.2-arm64-arm-64bit-Mach-O",
+    "python": "3.13.13",
+    "pyside6": "6.11.2"
+  },
+  "result": {
+    "status": "complete",
+    "started_at": "2026-10-06T22:24:14.434+08:00",
+    "finished_at": "2026-10-06T22:24:14.513+08:00",
+    "elapsed_s": 0.079009707988007,
+    "rows": [
+      {
+        "plaintext": 0,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          2,
+          251
+        ]
+      },
+      {
+        "plaintext": 1,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 1,
+        "sample_keys": [
+          49,
+          232
+        ]
+      },
+      {
+        "plaintext": 2,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          76,
+          181
+        ]
+      },
+      {
+        "plaintext": 3,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          39,
+          254
+        ]
+      },
+      {
+        "plaintext": 4,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 1,
+        "sample_keys": [
+          39,
+          222
+        ]
+      },
+      {
+        "plaintext": 5,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          37,
+          252
+        ]
+      },
+      {
+        "plaintext": 6,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          534,
+          751
+        ]
+      },
+      {
+        "plaintext": 7,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          588,
+          661
+        ]
+      },
+      {
+        "plaintext": 8,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          27,
+          226
+        ]
+      },
+      {
+        "plaintext": 9,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          707,
+          963
+        ]
+      },
+      {
+        "plaintext": 10,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          85,
+          172
+        ]
+      },
+      {
+        "plaintext": 11,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          30,
+          286
+        ]
+      },
+      {
+        "plaintext": 12,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          195,
+          451
+        ]
+      },
+      {
+        "plaintext": 13,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          28,
+          284
+        ]
+      },
+      {
+        "plaintext": 14,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          69,
+          325
+        ]
+      },
+      {
+        "plaintext": 15,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          629,
+          684
+        ]
+      },
+      {
+        "plaintext": 16,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          142,
+          398
+        ]
+      },
+      {
+        "plaintext": 17,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          595,
+          851
+        ]
+      },
+      {
+        "plaintext": 18,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          113,
+          136
+        ]
+      },
+      {
+        "plaintext": 19,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          171,
+          427
+        ]
+      },
+      {
+        "plaintext": 20,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          115,
+          371
+        ]
+      },
+      {
+        "plaintext": 21,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          41,
+          240
+        ]
+      },
+      {
+        "plaintext": 22,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          683,
+          939
+        ]
+      },
+      {
+        "plaintext": 23,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          118,
+          374
+        ]
+      },
+      {
+        "plaintext": 24,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          75,
+          151
+        ]
+      },
+      {
+        "plaintext": 25,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          618,
+          874
+        ]
+      },
+      {
+        "plaintext": 26,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          104,
+          145
+        ]
+      },
+      {
+        "plaintext": 27,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          146,
+          402
+        ]
+      },
+      {
+        "plaintext": 28,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          106,
+          135
+        ]
+      },
+      {
+        "plaintext": 29,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          16,
+          272
+        ]
+      },
+      {
+        "plaintext": 30,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          73,
+          329
+        ]
+      },
+      {
+        "plaintext": 31,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          633,
+          672
+        ]
+      },
+      {
+        "plaintext": 32,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          202,
+          458
+        ]
+      },
+      {
+        "plaintext": 33,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          52,
+          308
+        ]
+      },
+      {
+        "plaintext": 34,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          125,
+          132
+        ]
+      },
+      {
+        "plaintext": 35,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          239,
+          495
+        ]
+      },
+      {
+        "plaintext": 36,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          51,
+          307
+        ]
+      },
+      {
+        "plaintext": 37,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          237,
+          493
+        ]
+      },
+      {
+        "plaintext": 38,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          551,
+          734
+        ]
+      },
+      {
+        "plaintext": 39,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          54,
+          310
+        ]
+      },
+      {
+        "plaintext": 40,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          42,
+          298
+        ]
+      },
+      {
+        "plaintext": 41,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          212,
+          468
+        ]
+      },
+      {
+        "plaintext": 42,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          100,
+          157
+        ]
+      },
+      {
+        "plaintext": 43,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          581,
+          701
+        ]
+      },
+      {
+        "plaintext": 44,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          11,
+          211
+        ]
+      },
+      {
+        "plaintext": 45,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          571,
+          738
+        ]
+      },
+      {
+        "plaintext": 46,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          141,
+          397
+        ]
+      },
+      {
+        "plaintext": 47,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          214,
+          470
+        ]
+      },
+      {
+        "plaintext": 48,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          66,
+          191
+        ]
+      },
+      {
+        "plaintext": 49,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          578,
+          834
+        ]
+      },
+      {
+        "plaintext": 50,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          185,
+          441
+        ]
+      },
+      {
+        "plaintext": 51,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          103,
+          186
+        ]
+      },
+      {
+        "plaintext": 52,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          553,
+          809
+        ]
+      },
+      {
+        "plaintext": 53,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          56,
+          225
+        ]
+      },
+      {
+        "plaintext": 54,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          64,
+          320
+        ]
+      },
+      {
+        "plaintext": 55,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          593,
+          648
+        ]
+      },
+      {
+        "plaintext": 56,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          166,
+          422
+        ]
+      },
+      {
+        "plaintext": 57,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          635,
+          678
+        ]
+      },
+      {
+        "plaintext": 58,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          89,
+          129
+        ]
+      },
+      {
+        "plaintext": 59,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          641,
+          897
+        ]
+      },
+      {
+        "plaintext": 60,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          91,
+          347
+        ]
+      },
+      {
+        "plaintext": 61,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          216,
+          472
+        ]
+      },
+      {
+        "plaintext": 62,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          160,
+          416
+        ]
+      },
+      {
+        "plaintext": 63,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          94,
+          350
+        ]
+      },
+      {
+        "plaintext": 64,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          557,
+          813
+        ]
+      },
+      {
+        "plaintext": 65,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          35,
+          250
+        ]
+      },
+      {
+        "plaintext": 66,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          189,
+          247
+        ]
+      },
+      {
+        "plaintext": 67,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          47,
+          101
+        ]
+      },
+      {
+        "plaintext": 68,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          53,
+          204
+        ]
+      },
+      {
+        "plaintext": 69,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          539,
+          795
+        ]
+      },
+      {
+        "plaintext": 70,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          604,
+          677
+        ]
+      },
+      {
+        "plaintext": 71,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          518,
+          735
+        ]
+      },
+      {
+        "plaintext": 72,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          197,
+          453
+        ]
+      },
+      {
+        "plaintext": 73,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          26,
+          282
+        ]
+      },
+      {
+        "plaintext": 74,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          23,
+          93
+        ]
+      },
+      {
+        "plaintext": 75,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          711,
+          967
+        ]
+      },
+      {
+        "plaintext": 76,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          44,
+          213
+        ]
+      },
+      {
+        "plaintext": 77,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          763,
+          1019
+        ]
+      },
+      {
+        "plaintext": 78,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          7,
+          77
+        ]
+      },
+      {
+        "plaintext": 79,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          575,
+          742
+        ]
+      },
+      {
+        "plaintext": 80,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          528,
+          602
+        ]
+      },
+      {
+        "plaintext": 81,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          175,
+          431
+        ]
+      },
+      {
+        "plaintext": 82,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          128,
+          384
+        ]
+      },
+      {
+        "plaintext": 83,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          120,
+          163
+        ]
+      },
+      {
+        "plaintext": 84,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          57,
+          192
+        ]
+      },
+      {
+        "plaintext": 85,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          99,
+          355
+        ]
+      },
+      {
+        "plaintext": 86,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          78,
+          334
+        ]
+      },
+      {
+        "plaintext": 87,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          667,
+          923
+        ]
+      },
+      {
+        "plaintext": 88,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          1,
+          257
+        ]
+      },
+      {
+        "plaintext": 89,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          150,
+          406
+        ]
+      },
+      {
+        "plaintext": 90,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          96,
+          155
+        ]
+      },
+      {
+        "plaintext": 91,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          152,
+          408
+        ]
+      },
+      {
+        "plaintext": 92,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          32,
+          217
+        ]
+      },
+      {
+        "plaintext": 93,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          90,
+          346
+        ]
+      },
+      {
+        "plaintext": 94,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          65,
+          321
+        ]
+      },
+      {
+        "plaintext": 95,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          591,
+          674
+        ]
+      },
+      {
+        "plaintext": 96,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          540,
+          796
+        ]
+      },
+      {
+        "plaintext": 97,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          50,
+          235
+        ]
+      },
+      {
+        "plaintext": 98,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          140,
+          198
+        ]
+      },
+      {
+        "plaintext": 99,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          535,
+          791
+        ]
+      },
+      {
+        "plaintext": 100,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          4,
+          253
+        ]
+      },
+      {
+        "plaintext": 101,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          522,
+          778
+        ]
+      },
+      {
+        "plaintext": 102,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          621,
+          660
+        ]
+      },
+      {
+        "plaintext": 103,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          62,
+          116
+        ]
+      },
+      {
+        "plaintext": 104,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          13,
+          269
+        ]
+      },
+      {
+        "plaintext": 105,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          210,
+          466
+        ]
+      },
+      {
+        "plaintext": 106,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          38,
+          108
+        ]
+      },
+      {
+        "plaintext": 107,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          527,
+          759
+        ]
+      },
+      {
+        "plaintext": 108,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          29,
+          228
+        ]
+      },
+      {
+        "plaintext": 109,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          517,
+          746
+        ]
+      },
+      {
+        "plaintext": 110,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          628,
+          884
+        ]
+      },
+      {
+        "plaintext": 111,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          148,
+          222
+        ]
+      },
+      {
+        "plaintext": 112,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          8,
+          264
+        ]
+      },
+      {
+        "plaintext": 113,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          190,
+          446
+        ]
+      },
+      {
+        "plaintext": 114,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          177,
+          433
+        ]
+      },
+      {
+        "plaintext": 115,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          105,
+          178
+        ]
+      },
+      {
+        "plaintext": 116,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          241,
+          497
+        ]
+      },
+      {
+        "plaintext": 117,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          114,
+          370
+        ]
+      },
+      {
+        "plaintext": 118,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          127,
+          383
+        ]
+      },
+      {
+        "plaintext": 119,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          582,
+          650
+        ]
+      },
+      {
+        "plaintext": 120,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          232,
+          488
+        ]
+      },
+      {
+        "plaintext": 121,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          569,
+          627
+        ]
+      },
+      {
+        "plaintext": 122,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          81,
+          139
+        ]
+      },
+      {
+        "plaintext": 123,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          639,
+          643
+        ]
+      },
+      {
+        "plaintext": 124,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          17,
+          201
+        ]
+      },
+      {
+        "plaintext": 125,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          521,
+          579
+        ]
+      },
+      {
+        "plaintext": 126,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          170,
+          426
+        ]
+      },
+      {
+        "plaintext": 127,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          86,
+          342
+        ]
+      },
+      {
+        "plaintext": 128,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          10,
+          243
+        ]
+      },
+      {
+        "plaintext": 129,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          516,
+          733
+        ]
+      },
+      {
+        "plaintext": 130,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          6,
+          255
+        ]
+      },
+      {
+        "plaintext": 131,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          109,
+          180
+        ]
+      },
+      {
+        "plaintext": 132,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          547,
+          730
+        ]
+      },
+      {
+        "plaintext": 133,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          45,
+          244
+        ]
+      },
+      {
+        "plaintext": 134,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          542,
+          743
+        ]
+      },
+      {
+        "plaintext": 135,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          580,
+          669
+        ]
+      },
+      {
+        "plaintext": 136,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          19,
+          234
+        ]
+      },
+      {
+        "plaintext": 137,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          573,
+          740
+        ]
+      },
+      {
+        "plaintext": 138,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          31,
+          230
+        ]
+      },
+      {
+        "plaintext": 139,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          84,
+          340
+        ]
+      },
+      {
+        "plaintext": 140,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          203,
+          459
+        ]
+      },
+      {
+        "plaintext": 141,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          20,
+          276
+        ]
+      },
+      {
+        "plaintext": 142,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          15,
+          271
+        ]
+      },
+      {
+        "plaintext": 143,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          637,
+          676
+        ]
+      },
+      {
+        "plaintext": 144,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          134,
+          390
+        ]
+      },
+      {
+        "plaintext": 145,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          537,
+          704
+        ]
+      },
+      {
+        "plaintext": 146,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          138,
+          394
+        ]
+      },
+      {
+        "plaintext": 147,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          112,
+          169
+        ]
+      },
+      {
+        "plaintext": 148,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          123,
+          379
+        ]
+      },
+      {
+        "plaintext": 149,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          33,
+          248
+        ]
+      },
+      {
+        "plaintext": 150,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          70,
+          326
+        ]
+      },
+      {
+        "plaintext": 151,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          584,
+          657
+        ]
+      },
+      {
+        "plaintext": 152,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          67,
+          159
+        ]
+      },
+      {
+        "plaintext": 153,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          544,
+          761
+        ]
+      },
+      {
+        "plaintext": 154,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          79,
+          147
+        ]
+      },
+      {
+        "plaintext": 155,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          144,
+          400
+        ]
+      },
+      {
+        "plaintext": 156,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          98,
+          143
+        ]
+      },
+      {
+        "plaintext": 157,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          24,
+          280
+        ]
+      },
+      {
+        "plaintext": 158,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          95,
+          351
+        ]
+      },
+      {
+        "plaintext": 159,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          625,
+          680
+        ]
+      },
+      {
+        "plaintext": 160,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          194,
+          450
+        ]
+      },
+      {
+        "plaintext": 161,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          60,
+          316
+        ]
+      },
+      {
+        "plaintext": 162,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          55,
+          206
+        ]
+      },
+      {
+        "plaintext": 163,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          165,
+          421
+        ]
+      },
+      {
+        "plaintext": 164,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          59,
+          315
+        ]
+      },
+      {
+        "plaintext": 165,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          229,
+          485
+        ]
+      },
+      {
+        "plaintext": 166,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          559,
+          726
+        ]
+      },
+      {
+        "plaintext": 167,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          124,
+          380
+        ]
+      },
+      {
+        "plaintext": 168,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          34,
+          290
+        ]
+      },
+      {
+        "plaintext": 169,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          220,
+          476
+        ]
+      },
+      {
+        "plaintext": 170,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          46,
+          215
+        ]
+      },
+      {
+        "plaintext": 171,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          589,
+          693
+        ]
+      },
+      {
+        "plaintext": 172,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          3,
+          219
+        ]
+      },
+      {
+        "plaintext": 173,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          525,
+          757
+        ]
+      },
+      {
+        "plaintext": 174,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          199,
+          455
+        ]
+      },
+      {
+        "plaintext": 175,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          156,
+          412
+        ]
+      },
+      {
+        "plaintext": 176,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          74,
+          183
+        ]
+      },
+      {
+        "plaintext": 177,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          520,
+          721
+        ]
+      },
+      {
+        "plaintext": 178,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          187,
+          443
+        ]
+      },
+      {
+        "plaintext": 179,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          97,
+          184
+        ]
+      },
+      {
+        "plaintext": 180,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          611,
+          687
+        ]
+      },
+      {
+        "plaintext": 181,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          48,
+          233
+        ]
+      },
+      {
+        "plaintext": 182,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          119,
+          375
+        ]
+      },
+      {
+        "plaintext": 183,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          601,
+          640
+        ]
+      },
+      {
+        "plaintext": 184,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          174,
+          430
+        ]
+      },
+      {
+        "plaintext": 185,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          561,
+          744
+        ]
+      },
+      {
+        "plaintext": 186,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          131,
+          387
+        ]
+      },
+      {
+        "plaintext": 187,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          88,
+          344
+        ]
+      },
+      {
+        "plaintext": 188,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          83,
+          339
+        ]
+      },
+      {
+        "plaintext": 189,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          208,
+          464
+        ]
+      },
+      {
+        "plaintext": 190,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          110,
+          162
+        ]
+      },
+      {
+        "plaintext": 191,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          608,
+          697
+        ]
+      },
+      {
+        "plaintext": 192,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          724,
+          980
+        ]
+      },
+      {
+        "plaintext": 193,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          43,
+          242
+        ]
+      },
+      {
+        "plaintext": 194,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          14,
+          68
+        ]
+      },
+      {
+        "plaintext": 195,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          188,
+          246
+        ]
+      },
+      {
+        "plaintext": 196,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          61,
+          196
+        ]
+      },
+      {
+        "plaintext": 197,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          706,
+          962
+        ]
+      },
+      {
+        "plaintext": 198,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          596,
+          685
+        ]
+      },
+      {
+        "plaintext": 199,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          526,
+          727
+        ]
+      },
+      {
+        "plaintext": 200,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          205,
+          461
+        ]
+      },
+      {
+        "plaintext": 201,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          18,
+          274
+        ]
+      },
+      {
+        "plaintext": 202,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          164,
+          238
+        ]
+      },
+      {
+        "plaintext": 203,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          22,
+          92
+        ]
+      },
+      {
+        "plaintext": 204,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          36,
+          221
+        ]
+      },
+      {
+        "plaintext": 205,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          546,
+          717
+        ]
+      },
+      {
+        "plaintext": 206,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          692,
+          948
+        ]
+      },
+      {
+        "plaintext": 207,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          567,
+          750
+        ]
+      },
+      {
+        "plaintext": 208,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          745,
+          1001
+        ]
+      },
+      {
+        "plaintext": 209,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          167,
+          423
+        ]
+      },
+      {
+        "plaintext": 210,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          121,
+          130
+        ]
+      },
+      {
+        "plaintext": 211,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          161,
+          417
+        ]
+      },
+      {
+        "plaintext": 212,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          49,
+          200
+        ]
+      },
+      {
+        "plaintext": 213,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          107,
+          363
+        ]
+      },
+      {
+        "plaintext": 214,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          600,
+          673
+        ]
+      },
+      {
+        "plaintext": 215,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          126,
+          382
+        ]
+      },
+      {
+        "plaintext": 216,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          9,
+          265
+        ]
+      },
+      {
+        "plaintext": 217,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          158,
+          414
+        ]
+      },
+      {
+        "plaintext": 218,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          71,
+          153
+        ]
+      },
+      {
+        "plaintext": 219,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          154,
+          410
+        ]
+      },
+      {
+        "plaintext": 220,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          40,
+          209
+        ]
+      },
+      {
+        "plaintext": 221,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          82,
+          338
+        ]
+      },
+      {
+        "plaintext": 222,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          87,
+          343
+        ]
+      },
+      {
+        "plaintext": 223,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          583,
+          682
+        ]
+      },
+      {
+        "plaintext": 224,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          538,
+          741
+        ]
+      },
+      {
+        "plaintext": 225,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          58,
+          227
+        ]
+      },
+      {
+        "plaintext": 226,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          63,
+          117
+        ]
+      },
+      {
+        "plaintext": 227,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          173,
+          231
+        ]
+      },
+      {
+        "plaintext": 228,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          12,
+          245
+        ]
+      },
+      {
+        "plaintext": 229,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          541,
+          723
+        ]
+      },
+      {
+        "plaintext": 230,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          613,
+          668
+        ]
+      },
+      {
+        "plaintext": 231,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          710,
+          966
+        ]
+      },
+      {
+        "plaintext": 232,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          5,
+          261
+        ]
+      },
+      {
+        "plaintext": 233,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          218,
+          474
+        ]
+      },
+      {
+        "plaintext": 234,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          149,
+          223
+        ]
+      },
+      {
+        "plaintext": 235,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          519,
+          767
+        ]
+      },
+      {
+        "plaintext": 236,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          21,
+          236
+        ]
+      },
+      {
+        "plaintext": 237,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          563,
+          765
+        ]
+      },
+      {
+        "plaintext": 238,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          133,
+          207
+        ]
+      },
+      {
+        "plaintext": 239,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          550,
+          806
+        ]
+      },
+      {
+        "plaintext": 240,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          0,
+          256
+        ]
+      },
+      {
+        "plaintext": 241,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          182,
+          438
+        ]
+      },
+      {
+        "plaintext": 242,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          179,
+          435
+        ]
+      },
+      {
+        "plaintext": 243,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          111,
+          176
+        ]
+      },
+      {
+        "plaintext": 244,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          249,
+          505
+        ]
+      },
+      {
+        "plaintext": 245,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          122,
+          378
+        ]
+      },
+      {
+        "plaintext": 246,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          72,
+          328
+        ]
+      },
+      {
+        "plaintext": 247,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          590,
+          642
+        ]
+      },
+      {
+        "plaintext": 248,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          224,
+          480
+        ]
+      },
+      {
+        "plaintext": 249,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          686,
+          736
+        ]
+      },
+      {
+        "plaintext": 250,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          137,
+          393
+        ]
+      },
+      {
+        "plaintext": 251,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          80,
+          336
+        ]
+      },
+      {
+        "plaintext": 252,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          25,
+          193
+        ]
+      },
+      {
+        "plaintext": 253,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          655,
+          911
+        ]
+      },
+      {
+        "plaintext": 254,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          102,
+          168
+        ]
+      },
+      {
+        "plaintext": 255,
+        "reachable": 254,
+        "collision_buckets": 254,
+        "max_bucket": 8,
+        "sample_cipher": 0,
+        "sample_keys": [
+          699,
+          955
+        ]
+      }
+    ],
+    "checked": 262144
+  }
+}
