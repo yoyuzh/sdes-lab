@@ -46,6 +46,6 @@ uv run --frozen python collect_evidence.py
 
 ## 作业交付
 
-[GitHub 仓库](https://github.com/yoyuzh/sdes-lab)于 2026-10-07 创建，当前为私有仓库，包含源码、文档、测试和证据。其他组及教师访问需要仓库权限，或在提交前调整可见性。
+[GitHub 公开仓库](https://github.com/yoyuzh/sdes-lab)于 2026-10-07 创建并上传，包含源码、文档、测试和证据，可供其他组及教师直接访问。
 
 [原始作业](https://shimo.im/docs/m5kvdlMaKvcENy3X)。截止时间为 2026-10-08 23:00（北京时间）。当前尚未填写提交表或完成真实组间交叉测试。
