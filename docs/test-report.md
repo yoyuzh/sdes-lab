@@ -6,7 +6,7 @@
 
 第一版已实现并在当前电脑启动。32 项自动测试通过，应用代码覆盖率 91%。全部 1024 个密钥 × 256 个明文的 262144 种组合均通过往返和单密钥置换检查。实际桌面的二进制/ASCII 加解密、破解、单/全明文分析和文件保存已验证。
 
-组间测试补记（2026-10-07）：项目成员确认已与**三点水小组**完成组间测试，登记见[交叉测试记录](../evidence/cross/README.md)。本版仍按源文档公式从 P10 结果分别左移 1、2 位；此次状态更新不代表额外获得教师对位移规则的确认。
+组间测试补记（2026-10-07）：项目成员确认已与**三点水小组**完成组间测试，**结果全部通过**，见[结果记录 CROSS-001](../evidence/cross/result.md)。本版仍按源文档公式从 P10 结果分别左移 1、2 位；此次结果登记不代表额外获得教师对位移规则的确认。
 
 ## 固定向量
 
@@ -30,7 +30,7 @@
 | 关卡 | 状态 | 证据 |
 |---|---|---|
 | 基本测试 | 固定向量、校验和全空间往返通过 | [加密截图](../evidence/basic/gui-encrypt.png)、[解密截图](../evidence/basic/gui-decrypt.png)、[穷举记录](../evidence/basic/exhaustive.json) |
-| 交叉测试 | 已与三点水小组完成（项目成员确认） | [测试登记](../evidence/cross/README.md) |
+| 交叉测试 | 与三点水小组测试全部通过（项目成员确认） | [结果记录](../evidence/cross/result.md) |
 | 字符串扩展 | ASCII 加密与 Hex 解密恢复原文，非法输入拒绝 | [结果](../evidence/text/roundtrip.json)、[加密截图](../evidence/text/gui-encrypt.png)、[解密截图](../evidence/text/gui-decrypt.png) |
 | 暴力破解 | 单对/多对完整检查 1024 个密钥，返回全部候选；后台执行与保存通过 | [GUI 导出](../evidence/bruteforce/gui-search.json)、[保存截图](../evidence/bruteforce/gui-saved.png)、[演示 GIF](../evidence/bruteforce/demo.gif) |
 | 碰撞分析 | 单明文与全部 256 个明文分析完成，GUI 展示统计 | [单明文截图](../evidence/collision/gui-single.png)、[全明文截图](../evidence/collision/gui-all.png)、[完整结果](../evidence/collision/all-plaintexts.json) |
@@ -65,6 +65,6 @@ uv run --frozen --extra dev ruff format --check .
 
 ## 剩余工作
 
-与三点水小组的组间测试已完成，具体测试输入、输出、环境与截图尚未补充到仓库。课堂位移规则的独立参考来源仍待登记。其他操作系统未实际验收；提交表登记未执行。TCP、UTF-8 扩展和独立安装包未实现。作业截止：2026-10-08 23:00（北京时间）。
+与三点水小组的组间测试全部通过（项目成员确认），具体测试输入、输出、环境与截图尚未补充到仓库。课堂位移规则的独立参考来源仍待登记。其他操作系统未实际验收；提交表登记未执行。TCP、UTF-8 扩展和独立安装包未实现。作业截止：2026-10-08 23:00（北京时间）。
 
 发布补记（2026-10-07）：源码、文档、测试与证据已上传至 [GitHub 公开仓库](https://github.com/yoyuzh/sdes-lab)。本次发布没有改变上述 2026-10-06 的算法验收结果。
