@@ -1,0 +1,17 @@
+{
+  "record_id": "CROSS-002-LOCAL",
+  "verification_date": "2026-10-08",
+  "algorithm": "shimo-direct-ls2-v1",
+  "environment": {
+    "python": "3.13.13",
+    "os": "macOS-27.2-arm64-arm-64bit-Mach-O"
+  },
+  "key": "1010000010",
+  "plaintext": "10111101",
+  "expected_ciphertext": "11000011",
+  "actual_ciphertext": "11000011",
+  "actual_decrypted_plaintext": "10111101",
+  "encryption_passed": true,
+  "decryption_passed": true,
+  "scope": "Local verification of the vector supplied by the project member; not an execution of the other groups programs."
+}
